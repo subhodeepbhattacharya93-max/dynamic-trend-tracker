@@ -1,0 +1,5 @@
+streamlit==1.32.0
+pytrends==4.9.2
+pandas==2.2.1
+GoogleNews==1.6.15
+fake-useragent==1.5.1
